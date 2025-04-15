@@ -31,4 +31,5 @@ Na parte inferior da tela, clique em **Add Access List Entry**, insira o seu IP,
 
 ## Contribuição
 
-Espero que este projeto tenha te ajudado! Caso algo não esteja funcionando ou esteja desatualizado, sinta-se à vontade para abrir uma *issue* no GitHub para que eu possa corrigir.
+Espero que este projeto tenha te ajudado! Se você achou útil, não esquece de deixar uma ⭐ no repositório — isso me ajuda bastante!  
+Caso algo não esteja funcionando ou esteja desatualizado, sinta-se à vontade para abrir uma *issue* no GitHub para que eu possa corrigir.
