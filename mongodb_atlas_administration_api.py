@@ -12,7 +12,8 @@ from requests.auth import HTTPDigestAuth
 from pprint import pprint
 from dotenv import load_dotenv
 
-load_dotenv() # Carrega as variáveis de ambiente do arquivo .env
+# Carregar as variáveis de ambiente do arquivo .env
+load_dotenv()
 
 
 # Função para mostrar todos os IPs
@@ -63,6 +64,7 @@ def adicionar_IP(comment, ipAddress):
     else:
         print(f"Erro na requisição POST: {response.status_code}")
         print(f"Resposta: {response.text}")
+
 
 # Função para remover IPs por endereço IP
 def remover_por_IP(ipAddress):
